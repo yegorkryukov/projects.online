@@ -31,7 +31,7 @@
 #     defaults to 3600.
 
 # Requires curl and docker to be installed
-SB_DEFAULT_SERVER_NAME='seattle2'
+SB_DEFAULT_SERVER_NAME='chicago'
 
 set -euo pipefail
 
