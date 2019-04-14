@@ -31,7 +31,7 @@
 #     defaults to 3600.
 
 # Requires curl and docker to be installed
-SB_DEFAULT_SERVER_NAME='linode-ca'
+SB_DEFAULT_SERVER_NAME='aws-ohio'
 
 set -euo pipefail
 
